@@ -1,0 +1,14 @@
+{
+  "name": "step-function-test-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.2",
+    "step-functions-tester": "0.0.5"
+  }
+}
